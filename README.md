@@ -30,4 +30,29 @@ int main(){
 ```
 `#ffffff` The colour is not appearing.
 
-[Here's the link for this Github repository]()
+[Here's the link for this Github repository.](https://github.com/suraj1633/1strepository#)
+
+[Here's the link for 1<sup>st</sup> heading.](https://github.com/suraj1633/1strepository?tab=readme-ov-file#-is-used-to-create-a-heading)
+
+<ins>Following are famous programming languages:</ins>
+- C++
+- C
+- Java
+- Python
+
+<ins>Following are the types of Software:</ins>
+- **System software**
+  1. System Support Software
+  2. System Utility Software
+  3. System Management Software
+  4. System Controller Software
+     - Translator
+     - Interpreter
+     - Assembler
+- **Application software**
+
+Things I should learn for better placement.
+- [x] DSA
+- [ ] Web Development
+- [ ] AI & ML
+- [ ] UI/UX
