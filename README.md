@@ -56,3 +56,34 @@ Things I should learn for better placement.
 - [ ] Web Development
 - [ ] AI & ML
 - [ ] UI/UX
+
+You can add a footnote like this[^footnote1].
+
+[^footnote1]: 1<sup>st</sup> footnote is added.
+
+Some `Alerts` are given below:
+>[!NOTE]
+>Revise all important topics before exams.
+
+>[!TIP]
+>Make short notes on each topic.
+
+>[!IMPORTANT]
+>Read each topic carefully.
+
+>[!WARNING]
+>Don't be lazy to do something.
+
+>[!CAUTION]
+>Never cheat.
+
+<!-- Key to success. -->
+
+Tables of Students and there marks in Maths:
+|S.No.|Student Name|Marks(in Maths)|
+|-|-|-|
+|1.|Suraj|98|
+|2.|Karthik|93|
+|3.|Arnav|92|
+|4.|Anant|97|
+|5.|Himanshu|90|
