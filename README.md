@@ -87,3 +87,8 @@ Tables of Students and there marks in Maths:
 |3.|Arnav|92|
 |4.|Anant|97|
 |5.|Himanshu|90|
+
+Summation of consecutive 'n' elements:
+$$
+\sum_{i=1}^{n}i=\frac{n(n+1)}{2}
+$$
