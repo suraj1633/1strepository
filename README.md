@@ -59,9 +59,9 @@ Things I should learn for better placement.
 - [ ] AI & ML
 - [ ] UI/UX
 
-You can add a footnote like this[^footnote1].
+You can add a footnote like this[^1].
 
-[^footnote1]:1<sup>st</sup> footnote is added.
+[^1]:1<sup>st</sup> footnote is added.
 
 Some `Alerts` are given below:
 >[!NOTE]
