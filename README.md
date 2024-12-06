@@ -6,6 +6,8 @@
 
 Formula of water is H<sub>2</sub>O.
 
+![Onepiece](https://www.gratistodo.com/wp-content/uploads/2021/07/One-Piece-Wallpapers-14-1536x1099.jpg)
+
 Magnesium has two valence electrons that can be represented as Mg<sup>2+</sup>.
 
 ~~This is how to strike through words.~~
