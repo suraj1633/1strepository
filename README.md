@@ -65,8 +65,8 @@ Some `Alerts` are given below:
 >[!NOTE]
 >Revise all important topics before exams.
 
->[!TIP]
->Make short notes on each topic.
+> [!TIP]
+> Make short notes on each topic.
 
 >[!IMPORTANT]
 >Read each topic carefully.
