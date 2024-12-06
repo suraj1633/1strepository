@@ -61,7 +61,7 @@ Things I should learn for better placement.
 
 You can add a footnote like this[^footnote1].
 
-[^footnote1]: 1<sup>st</sup> footnote is added.
+[^footnote1]:1<sup>st</sup> footnote is added.
 
 Some `Alerts` are given below:
 >[!NOTE]
